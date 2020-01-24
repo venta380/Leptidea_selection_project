@@ -11,6 +11,6 @@ python population_specific_CDS.py -f irish_juvernica.frq -i 10 -o irish_juvernic
 # PnPs_script.py
 This python script will callculate PnPs for each gene. 
 ```
-python Open_reading_frame_V2.py   irish_juvernica.CDS.fasta all > irish_juvernica.table
+python PnPs_script.py   irish_juvernica.CDS.fasta all > irish_juvernica.table
 
 ```
