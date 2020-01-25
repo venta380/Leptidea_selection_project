@@ -1,4 +1,4 @@
-# DNDS scripts
+# DnDs scripts
 Prepare gene allignments before you run the script paml.sh. Each gene should be in a new file ending with .fasta. 
 
 # catfasta2phyml.pl
